@@ -1,2 +1,7 @@
 # Melody-Project
-A project
+## A project by Lyubosey Dmitry
+
+### Technologies
+- html
+- css
+- js
